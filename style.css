@@ -1,0 +1,128 @@
+html{
+    margin: 0 10%; 
+}
+
+.container{
+    border: 1px solid black;
+    margin: 15px;
+    width: 100%;
+}
+
+h1{
+    font-weight: 900;
+}
+
+
+h2{
+    position: relative;
+    margin: 1em;
+    width: 10%;
+    font-weight: 400;
+    text-align: center;
+    background-color: #000;
+    color: #FFF;
+}
+
+
+.colors li{
+    display: inline-block;
+    width: 30%;
+    margin: 1em auto;
+    font-weight: 900;
+    text-align: center;
+    color: #FFF;
+    padding: 10px auto;
+}
+
+.colors .red{
+    background-color: #9F2218;
+}
+
+.colors .green{
+    background-color: #48B37E;
+}
+
+.colors .blue{
+    background-color: #268AFF;
+}
+
+.colors .orange{
+    background-color: #FD9A28;
+    
+}
+
+h3{
+    text-decoration: underline;
+    font-weight: 400;
+}
+
+
+.italic{
+    font-style: italic;
+}
+
+.bold{
+    font-weight: 900;
+}
+
+.normal{
+    font-weight: 400;
+}
+
+.SourceCodePro{
+    font-family: "Source Code Pro";
+    display: inline-block;
+    width: 40%;
+    margin: 20px auto auto 15em;
+}
+
+
+.NunitoSans{
+    font-family: "Nunito Sans";
+    display: inline-block;
+    width: auto;
+    position: relative;
+    margin: auto 15em auto auto;
+    float: right;
+}
+
+.Poppins{
+    font-family: "Poppins";
+    display: inline-block;
+    width: 50%;
+    margin: 20px auto 5em 15em;
+}
+
+.TextStyles .h1special,  .TextStyles .pspecial{
+    position: relative;
+    margin: 1em 0em 1em 15em;
+    width: 40%;
+    display: inline-block;
+    
+   
+    
+}
+
+.TextStyles li{
+    list-style-type: square;
+    left: -10px;
+}
+
+.TextStyles .h2special{
+ display: inline-block;
+ position: relative;
+ width: 40%;
+ 
+}
+
+.TextStyles .h2special h2{
+    background-color: #fff;
+ color: black;
+}
+
+
+.h2special h2{
+    border-style: hidden;
+}
+
+
